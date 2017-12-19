@@ -8,7 +8,7 @@ int main()
 {
     cout << "Your Friends:\n\n";
 
-    Person p1("Jack", "Bloggs");
+    Person p1("Jk", "Bloggs");
     cout << "\t" << p1.ToString() << endl;
 
     Person p2("bob", "Bloggs");
