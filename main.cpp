@@ -6,7 +6,7 @@ using std::endl;
 
 int main()
 {
-    cout << "My Friends:\n\n";
+    cout << "Your Friends:\n\n";
 
     Person p1("Jack", "Bloggs");
     cout << "\t" << p1.ToString() << endl;
