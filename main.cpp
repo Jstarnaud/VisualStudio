@@ -14,7 +14,7 @@ int main()
     Person p2("bob", "Bloggs");
     cout << "\t" << p2.ToString() << endl;
 
-    Person p3("bob", "Bloggs");
+    Person p3("vas"Bloggs");
     cout << "\t" << p2.ToString() << endl;
 
     cout << endl;
